@@ -2,7 +2,7 @@
 
 Organizer: AKAMAI TECH TALKS
 
-
+Challenge: One is missing
 Category : Steganography
 
 Author: Philip Perucho (Primo)
