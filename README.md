@@ -1,4 +1,6 @@
-2020/Affinity/CTF
+2020/AFFINITY/CTF
+
+Organizer: AKAMAI TECH TALKS
 
 
 Category : Steganography
