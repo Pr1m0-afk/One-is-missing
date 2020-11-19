@@ -16,7 +16,7 @@ This is just an easy one for a beginner like me.
 
 *just scroll and find the hidden text. ![hidden](https://user-images.githubusercontent.com/74707908/99651225-43242980-2a91-11eb-9d1f-07bd7ae9a5c2.PNG)
 
-*flag obtained: AFFCTF{HIDDENKITTEN} 🚩
+*flag obtained: AFFCTF{HIDDENKITTEN} 🚩🚩
 
  
 
