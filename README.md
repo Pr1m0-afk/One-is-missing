@@ -1,6 +1,6 @@
 #### 2020/AFFINITY/CTF
 
-< Organizer: AKAMAI TECH TALKS
+Organizer: AKAMAI TECH TALKS
 
 Challenge: One is missing
 
